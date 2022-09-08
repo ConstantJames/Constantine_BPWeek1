@@ -1,4 +1,4 @@
-# Constantine_BPWeek1
+# Constantine_BPAssignments
 
-The Hello World BP homework.
+Here is my BP assignments. They should be in folders labeled by week in content>blueprints.
 James Constantine
